@@ -18,3 +18,13 @@ En estos momentos me encuentro haciendo un bootcamp de javascript fullstack
 3. Creando cuenta de github
 4. Instalacion de Node.js
 5. Primeros pasos con VSC
+
+# Estos son los comandos
+| comando | descripcion                         |
+|---------|-------------------------------------|
+| ls      | lista el contenido de un directorio |
+| cd      | cambiar entre directorios           |
+| yarn    | instalar dependencias               |
+| gst     | alias de git status                 |
+| clear   | limpiar la terminal                 |
+| alias   | listar los alias                    |
